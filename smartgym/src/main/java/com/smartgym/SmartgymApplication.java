@@ -1,4 +1,4 @@
-package com.smartgym.smartgym;
+package com.smartgym;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
